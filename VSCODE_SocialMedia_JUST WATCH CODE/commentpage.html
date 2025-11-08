@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row justify-content-center mt-5">
+        <div class="row justify-content-center mt-5">
+          <div class="col-4">
+            <form id="PostCommentForm" style="text-align: center">
+              <div class="mb-3">
+                <label
+                  for="PostComment"
+                  class="form-label"
+                  style="
+                    font-family: 'Arial', sans-serif;
+                    font-size: 16px;
+                    font-weight: bold;
+                  "
+                  >Add comment</label
+                >
+                <textarea
+                  class="form-control"
+                  id="PostComment"
+                  rows="3"
+                  style="text-align: center"
+                ></textarea>
+              </div>
+
+              <button
+                type="button"
+                class="btn btn-primary mb-2"
+                id="PostCommentButton"
+              >
+                Post
+              </button>
+            </form>
+            <hr />
+          </div>
+        </div>
+
+        <div class="col-4" id="commentshtml"></div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="Modal3" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Modify comment</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <form id="ChangeCommentForm" style="text-align: center">
+              <div class="mb-3">
+                <label for="ChangeTextBox" class="form-label"
+                  >New comment</label
+                >
+                <textarea
+                  class="form-control"
+                  id="ChangeTextBox"
+                  rows="3"
+                  style="text-align: center"
+                ></textarea>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+            <button
+              type="button"
+              class="btn btn-primary"
+              id="ModalChangeCommentButton"
+            >
+              Save changes
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- einde van de modal -->
+
+    <script src="commentpage.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
