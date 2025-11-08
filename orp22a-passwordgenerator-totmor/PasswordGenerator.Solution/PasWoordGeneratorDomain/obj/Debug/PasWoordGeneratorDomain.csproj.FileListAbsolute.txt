@@ -1,0 +1,6 @@
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\bin\Debug\PasWoordGeneratorDomain.dll
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\bin\Debug\PasWoordGeneratorDomain.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\obj\Debug\PasWoordGeneratorDomain.csproj.AssemblyReference.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\obj\Debug\PasWoordGeneratorDomain.csproj.CoreCompileInputs.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\obj\Debug\PasWoordGeneratorDomain.dll
+C:\Users\Abdelmounaïm\Documents\GitHub\orp22a-passwordgenerator-totmor\PasswordGenerator.Solution\PasWoordGeneratorDomain\obj\Debug\PasWoordGeneratorDomain.pdb
