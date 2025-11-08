@@ -1,0 +1,15 @@
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\Abdelmounaïm\Documents\GitHub\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\bin\Debug\Numbers.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTT22-apps\linq-totmor\Numbers\Numbers\obj\Debug\Numbers.pdb
