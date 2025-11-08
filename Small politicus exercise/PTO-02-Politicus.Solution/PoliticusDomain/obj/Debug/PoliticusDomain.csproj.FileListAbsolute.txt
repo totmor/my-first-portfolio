@@ -1,0 +1,12 @@
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\bin\Debug\PoliticusDomain.dll
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\bin\Debug\PoliticusDomain.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.csproj.AssemblyReference.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.csproj.CoreCompileInputs.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.dll
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\bin\Debug\PoliticusDomain.dll
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\bin\Debug\PoliticusDomain.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.csproj.AssemblyReference.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.csproj.CoreCompileInputs.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.dll
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\PoliticusDomain\obj\Debug\PoliticusDomain.pdb

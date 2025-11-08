@@ -1,0 +1,37 @@
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.AssemblyReference.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\MainWindow.g.cs
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\App.g.cs
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond_MarkupCompile.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond_MarkupCompile.lref
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.exe.config
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.exe
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\MainWindow.baml
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.g.resources
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.Properties.Resources.resources
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.GenerateResource.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.CoreCompileInputs.cache
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.exe
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\PoliticusDomain.dll
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\PoliticusDomain.pdb
+C:\Users\Abdelmounaïm\Documents\GitHub\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.CopyComplete
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\Politicus_abdelmounaim_ptoAvond.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\PoliticusDomain.dll
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\bin\Debug\PoliticusDomain.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.AssemblyReference.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\MainWindow.g.cs
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\App.g.cs
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond_MarkupCompile.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond_MarkupCompile.lref
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\MainWindow.baml
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.g.resources
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.Properties.Resources.resources
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.GenerateResource.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.csproj.CoreCompileInputs.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicu.D6F749DC.Up2Date
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2022-PTO2022\pto02-politicus-totmor\PTO-02-Politicus.Solution\Politicus_abdelmounaim_ptoAvond\obj\Debug\Politicus_abdelmounaim_ptoAvond.pdb
