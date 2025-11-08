@@ -1,0 +1,38 @@
+﻿<Window x:Class="_03april2021test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03april2021test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="300">
+    <Grid>
+        
+        <StackPanel>
+            <TextBlock Name="blockVertrek" Text="Kies uw Vertrekpunt hieronder  a.u.b..."/>
+            <ComboBox Name="CombobxVertrek" SelectionChanged="CombobxVertrek_SelectionChanged" Loaded="CombobxVertrek_Loaded">
+                <ComboBoxItem>Brussel</ComboBoxItem>
+                <ComboBoxItem>Antwerpen</ComboBoxItem>
+                <ComboBoxItem>Oostende</ComboBoxItem>
+                <ComboBoxItem>Waterloo</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Name="tekstblokresultaat" Text="Kies u bestemming hieronder   a.u.b..."/>
+            <ComboBox  Name="comboboxBestemming">
+                <ComboBoxItem>Brussel</ComboBoxItem>
+                <ComboBoxItem>Antwerpen</ComboBoxItem>
+                <ComboBoxItem>Oostende</ComboBoxItem>
+                <ComboBoxItem>Waterloo</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Kies een vertrekdatum hieronder a.u.b..."/>
+            <DatePicker x:Name="datePicker1" SelectedDateFormat="Long"/>
+            <TextBlock Text="Vul het aantal plaatsen dat u wilt hieronder in a.u.b"/>
+            <TextBox x:Name="inttextbox"/>
+            <TextBlock x:Name="tekstblok5" Text="Heen- en- terug?"/>
+            <CheckBox x:Name="checkbox" Click="checkbox_Click"/>
+            <TextBlock x:Name="Tekstblok5" Text="Kies een aankomstdatum hieronder a.u.b" Visibility="Hidden"/>
+            <DatePicker x:Name="datePicker2" Visibility="Hidden" SelectedDateFormat="Long"/>
+            <Button x:Name="btn" Content="Ok" Width="50" Click="btn_Click"/>
+            <Button x:Name="btnInfo" Content="Info" Click="btnInfo_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

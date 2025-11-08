@@ -1,0 +1,69 @@
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\bin\Debug\03april2021test.exe.config
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\bin\Debug\03april2021test.exe
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\bin\Debug\03april2021test.pdb
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.csprojAssemblyReference.cache
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\MainWindow.g.cs
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\App.g.cs
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test_MarkupCompile.cache
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test_MarkupCompile.lref
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\MainWindow.baml
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.g.resources
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\_03april2021test.Properties.Resources.resources
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.csproj.GenerateResource.cache
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.csproj.CoreCompileInputs.cache
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.exe
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\03april2021test.pdb
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\TicketPrintWindow.g.cs
+C:\Users\ahddc\source\repos\03april2021test\03april2021test\obj\Debug\TicketPrintWindow.baml
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe.config
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.pdb
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csprojAssemblyReference.cache
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.g.cs
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.g.cs
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\App.g.cs
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.cache
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.lref
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.baml
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.baml
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.g.resources
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\_03april2021test.Properties.Resources.resources
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.GenerateResource.cache
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.CoreCompileInputs.cache
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.exe
+C:\Users\ahddc\Desktop\PTO_2021_abdelmounaim_haddouch_herkansing\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.pdb
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe.config
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.pdb
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.AssemblyReference.cache
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.g.cs
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.g.cs
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\App.g.cs
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.cache
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.lref
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.baml
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.baml
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.g.resources
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\_03april2021test.Properties.Resources.resources
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.GenerateResource.cache
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.CoreCompileInputs.cache
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.exe
+C:\Users\Abdelmounaïm\Desktop\Abdelmounaim\odisee\oldGIThub\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\bin\Debug\03april2021test.pdb
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.AssemblyReference.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.exe.config
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.g.cs
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.g.cs
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\App.g.cs
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test_MarkupCompile.lref
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\MainWindow.baml
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\TicketPrintWindow.baml
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.g.resources
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\_03april2021test.Properties.Resources.resources
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.GenerateResource.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.csproj.CoreCompileInputs.cache
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.exe
+E:\Order-2022 (Nooit verwijderen-abdelmounaim)\hbo5-informatica\CSharpProgrammas\2021-PTO2021AppsEnDemos\PTO_2021_abdelmounaim_haddouch\pto_2021_ticketverkoop\03april2021test\obj\Debug\03april2021test.pdb
